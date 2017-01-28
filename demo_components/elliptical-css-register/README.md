@@ -1,2 +1,0 @@
-Elliptical CSS Register
-===========================
